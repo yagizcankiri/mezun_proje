@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dosya Yükle</title>
+</head>
+<body>
+    <h1>Transkript Yükle</h1>
+    <form action="/upload" method="POST" enctype="multipart/form-data">
+        <label for="file">Dosya Seç:</label>
+        <input type="file" name="file" id="file" required>
+        <br><br>
+        <input type="submit" value="Yükle">
+    </form>
+
+    <hr>
+
+    <!-- 🟡 Eğer "warnings" adında bir liste varsa, burada yazdır -->
+    {% if warnings %}
+        <h2>Analiz Sonuçları:</h2>
+        <ul>
+            {% for warning in warnings %}
+                <li>{{ warning }}</li>
+            {% endfor %}
+        </ul>
+    {% endif %}
+</body>
+</html>

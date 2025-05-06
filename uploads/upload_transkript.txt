@@ -1,0 +1,467 @@
+1. Yarıyıl
+Ders Kodu
+Ders Adı
+Kredi
+AKTS
+Harf
+AIB101
+Atatürk İlkeleri ve İnkılap Tarihi I
+2.0
+2.0
+AA
+BM101
+Algoritmalar ve Programlama I
+3.0
+5.0
+CB
+BM103
+Bilgisayar Mühendisliğine Giriş
+2.0
+2.0
+CB
+BM105
+Bilişim
+Teknolojileri
+3.0
+4.0
+CB
+BM107
+Elektrik Devre Temelleri
+3.0
+4.0
+CB
+FIZ101
+Fizik I
+3.0
+4.0
+CB
+ING101
+İngilizce I
+2.0
+2.0
+BA
+MAT101
+Matematik I
+4.0
+5.0
+CB
+TDB121
+Türk Dili I
+2.0
+2.0
+BB
+Toplam Kredi
+Toplam AKTS
+Toplam Ağırlıklı
+Ortalama
+Dönem Sonu
+24.0
+30.0
+93.50
+3.12
+Genel
+24.0
+30.0
+93.50
+3.12
+2. Yarıyıl
+Ders Kodu
+Ders Adı
+Kredi
+AKTS
+Harf
+AIB102
+Atatürk İlkeleri ve İnkılap Tarihi II
+2.0
+2.0
+AA
+BM102
+Algoritmalar ve Programlama
+II
+3.0
+5.0
+DC
+BM104
+Web Teknolojileri
+3.0
+5.0
+DC
+BM106
+Olasılık ve İstatistik
+3.0
+4.0
+AA
+FIZ102
+Fizik II
+3.0
+5.0
+CC
+ING102
+İngilizce II
+2.0
+2.0
+BB
+MAT102
+Matematik II
+4.0
+5.0
+BB
+TDB122
+Türk Dili II
+2.0
+2.0
+BA
+Toplam Kredi
+To
+plam AKTS
+Toplam Ağırlıklı
+Ortalama
+Dönem Sonu
+22.0
+30.0
+88.75
+2.96
+Genel
+46.0
+60.0
+182.25
+3.04
+3. Yarıyıl
+Ders Kodu
+Ders Adı
+Kredi
+AKTS
+Harf
+BM203
+Elektronik
+4.0
+5.0
+FF
+BM205
+Nesneye Dayalı Progra
+mlama
+4.0
+6.0
+CB
+BM209
+Sayısal Analiz
+3.0
+4.0
+DC
+BM211
+Diferansiyel Denklemler
+4.0
+5.0
+DD
+BM213
+Lineer Cebir
+3.0
+3.0
+DD
+BM215
+Ayrık İşlemsel Yapılar
+3.0
+4.0
+BB
+US213
+İşletme Yönetimi
+2.0
+3.0
+DD
+Toplam Kredi
+Toplam AKTS
+Toplam Ağ
+ırlıklı
+Ortalama
+Dönem Sonu
+23.0
+30.0
+62.00
+2.07
+Genel
+69.0
+90.0
+244.25
+2.71
+4. Yarıyıl
+Ders Kodu
+Ders Adı
+Kredi
+AKTS
+Harf
+BM204
+Bilgisayar Organizasyonu
+3.0
+5.0
+BA
+BM206
+Sayısal Elektronik
+4.0
+5.0
+CC
+BM208
+Nesneye Dayalı Analiz
+ve Tasarım
+3.0
+4.0
+DC
+BM210
+Programlama Dillerinin Prensipleri
+3.0
+4.0
+DC
+BM212
+Mesleki İngilizce
+3.0
+4.0
+FF
+BM214
+Veri Yapıları
+3.0
+5.0
+FF
+US201
+Bilim Tarihi ve Felsefesi
+2.0
+3.0
+BB
+Toplam Kredi
+Toplam AKTS
+Toplam Ağırlıklı
+Ortalam
+a
+Dönem Sonu
+21.0
+30.0
+57.75
+1.93
+Genel
+90.0
+120.0
+302.00
+2.52
+5. Yarıyıl
+Ders Kodu
+Ders Adı
+Kredi
+AKTS
+Harf
+BM301
+Biçimsel Diller ve Soyut Makinalar
+3.0
+5.0
+DD
+BM303
+İşaretler ve Sistemler
+2.0
+4
+.0
+BA
+BM305
+İşletim Sistemleri
+3.0
+5.0
+DC
+BM307
+Bilgisayar Ağları I
+3.0
+5.0
+DC
+BM309
+Veritabanı Yönetim Sistemleri
+4.0
+6.0
+CC
+BM399
+Yaz Dönemi Stajı I
+0.0
+2.0
+YT
+MS332
+Bilimsel Araştırma ve Rapor Yazma
+2.0
+3.0
+BB
+Toplam Kredi
+To
+plam AKTS
+Toplam Ağırlıklı
+Ortalama
+Dönem Sonu
+17.0
+30.0
+71.25
+2.54
+Genel
+107.0
+150.0
+373.25
+2.52
+6. Yarıyıl
+Ders Kodu
+Ders Adı
+Kredi
+AKTS
+Harf
+BM302
+Bilgisayar Ağları II
+4.0
+6.0
+CC
+BM304
+Mikroişlemciler
+4.0
+6.0
+DC
+BM306
+Sistem
+Programlama
+2.0
+5.0
+CC
+BM308
+Web Programlama
+4.0
+6.0
+BB
+BM310
+Yazılım Mühendisliği
+3.0
+4.0
+DD
+MS315
+İş Güvenliği
+2.0
+3.0
+DVZ
+Toplam Kredi
+Toplam AKTS
+Toplam Ağırlıklı
+Ortalama
+Dönem Sonu
+19.0
+30.0
+68.50
+2.28
+Genel
+126.0
+180.0
+441.7
+5
+2.48
+7. Yarıyıl
+Ders Kodu
+Ders Adı
+Kredi
+AKTS
+Harf
+BM401
+Bilgisayar Mühendisliği  Proje Tasarımı
+2.0
+3.0
+DC
+BM430
+Proje Yönetimi
+3.0
+5.0
+DVZ
+BM442
+Görsel Programlama
+3.0
+5.0
+DVZ
+BM445
+Java Pr
+ogramlama
+3.0
+5.0
+FF
+BM451
+Kontrol Sistemlerine Giriş
+3.0
+5.0
+BA
+BM477
+Graf Teorisi
+3.0
+5.0
+FF
+BM499
+Yaz Dönemi Stajı II
+0.0
+2.0
+YT
+Toplam Kredi
+Toplam AKTS
+Toplam Ağırlıklı
+Ortalama
+Dönem Sonu
+17.0
+30.0
+24.25
+0.87
+Genel
+143.0
+210.0
+4
+66.00
+2.26
+8. Yarıyıl
+Ders Kodu
+Ders Adı
+Kredi
+AKTS
+Harf
+BM429
+Optimizasyon
+3.0
+5.0
+DVZ
+BM469
+Makine Öğrenmesine Giriş
+3.0
+5.0
+BB
+BM494
+Kablosuz Haberleşme
+3.0
+5.0
+FD
+BM496
+Bilgi Mühendisliği ve Büyük Veriye Giriş
+3.0
+5.0
+DC
+B
+M498
+Mezuniyet Tezi
+2.0
+5.0
+CC
+Toplam Kredi
+Toplam AKTS
+Toplam Ağırlıklı
+Ortalama
+Dönem Sonu
+14.0
+25.0
+47.50
+1.90
+Genel
+157.0
+235.0
+513.50
+2.22
+Tarih
+05.05.2025 16:31
+Staj Durumu :
+Staj bilgisi bulunamadı.
+Akademik Durum :
+İlişik kesme sebebi bulunamadı.
+Hazırlık Durumu :
+Hazırlık Okumamış
+Not :
+(*)
+ile işaretlenen dersler Erasmus Programı kapsamında alınmıştır.
+(**)
+ile işaretlenen dersler Farabi Programı kapsamında alınmıştır.
