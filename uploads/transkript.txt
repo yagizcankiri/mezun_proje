@@ -1,0 +1,489 @@
+1. Yarıyıl
+Ders Kodu
+Ders Adı
+Kredi
+AKTS
+Harf
+AIB101
+Atatürk İlkeleri ve İnkılap Tarihi I
+2.0
+2.0
+AA
+BM101
+Algoritmalar ve Programlama I
+3.0
+5.0
+BA
+BM103
+Bilgisayar Mühendisliğine Giriş
+2.0
+2.0
+CC
+BM105
+Bilişim
+Teknolojileri
+3.0
+4.0
+CB
+BM107
+Elektrik Devre Temelleri
+3.0
+4.0
+CC
+FIZ 101
+FİZİK I
+3.0
+4.0
+CB
+ING101
+İngilizce I
+2.0
+2.0
+DC
+MAT101
+Matematik
+4.0
+5.0
+CB
+TDB121
+Türk Dili I
+2.0
+2.0
+AA
+Toplam Kredi
+Toplam AKTS
+Toplam Ağırlıklı
+Orta
+lama
+Dönem Sonu
+24.0
+30.0
+92.00
+3.07
+Genel
+24.0
+30.0
+92.00
+3.07
+2. Yarıyıl
+Ders Kodu
+Ders Adı
+Kredi
+AKTS
+Harf
+AIB102
+Atatürk İlkeleri ve İnkılap Tarihi II
+2.0
+2.0
+BA
+BM102
+Algoritmalar ve Programlama II
+3.0
+5.0
+DD
+BM104
+Web Tekno
+lojileri
+3.0
+5.0
+BA
+BM106
+Olasılık ve İstatistik
+3.0
+4.0
+AA
+FİZ102
+Fizik
+3.0
+5.0
+CB
+ING102
+İngilizce II
+2.0
+2.0
+CB
+MAT102
+Matematik II
+4.0
+5.0
+CB
+TDB122
+Türk Dili II
+2.0
+2.0
+AA
+Toplam Kredi
+Toplam AKTS
+Toplam Ağırlıklı
+Ortalama
+Dönem Sonu
+22.0
+30.0
+94.50
+3.15
+Genel
+46.0
+60.0
+186.50
+3.11
+3. Yarıyıl
+Ders Kodu
+Ders Adı
+Kredi
+AKTS
+Harf
+BM203
+Elektronik
+4.0
+5.0
+CC
+BM205
+Nesneye Dayalı Programlama
+4.0
+6.0
+CC
+BM209
+Sayısal A
+naliz
+3.0
+4.0
+CB
+BM211
+Diferansiyel Denklemler
+4.0
+5.0
+AA
+BM213
+Lineer Cebir
+3.0
+3.0
+DC
+BM215
+Ayrık İşlemsel Yapılar
+3.0
+4.0
+DC
+US213
+İşletme Yönetimi
+2.0
+3.0
+CC
+Toplam Kredi
+Toplam AKTS
+Toplam Ağırlıklı
+Ortalama
+Dönem Sonu
+23.0
+30
+.0
+82.75
+2.76
+Genel
+69.0
+90.0
+269.25
+2.99
+4. Yarıyıl
+Ders Kodu
+Ders Adı
+Kredi
+AKTS
+Harf
+BM204
+Bilgisayar Organizasyonu
+3.0
+5.0
+CC
+BM206
+Sayısal Elektronik
+4.0
+5.0
+CB
+BM208
+Nesneye Dayalı Analiz ve Tasarım
+3.0
+4.0
+FF
+BM210
+Prog
+ramlama Dillerinin Prensipleri
+3.0
+4.0
+BA
+BM212
+Mesleki İngilizce
+3.0
+4.0
+CB
+BM214
+Veri Yapıları
+3.0
+5.0
+CB
+US201
+Bilim Tarihi ve Felsefesi
+2.0
+3.0
+DD
+Toplam Kredi
+Toplam AKTS
+Toplam Ağırlıklı
+Ortalama
+Dönem Sonu
+21.0
+30.0
+74.50
+2.48
+Genel
+90.0
+120.0
+343.75
+2.86
+5. Yarıyıl
+Ders Kodu
+Ders Adı
+Kredi
+AKTS
+Harf
+BM301
+Biçimsel Diller ve Soyut Makinalar
+3.0
+5.0
+FF
+BM301
+Biçimsel Diller ve Soyut Makinalar
+3.0
+5.0
+DD
+BM303
+İşaretler
+ve Sistemler
+3.0
+4.0
+DC
+BM305
+İşletim Sistemleri
+3.0
+5.0
+FF
+BM305
+İşletim Sistemleri
+3.0
+5.0
+FF
+BM307
+Bilgisayar Ağları I
+3.0
+5.0
+DD
+BM309
+Veritabanı Yönetim Sistemleri
+4.0
+6.0
+CC
+BM399
+Yaz Dönemi Stajı I
+0.0
+2.0
+YT
+MS307
+Mühe
+ndisler İçin Yönetim
+2.0
+3.0
+BB
+Toplam Kredi
+Toplam AKTS
+Toplam Ağırlıklı
+Ortalama
+Dönem Sonu
+24.0
+40.0
+53.75
+1.41
+Genel
+114.0
+160.0
+397.50
+2.52
+6. Yarıyıl
+Ders Kodu
+Ders Adı
+Kredi
+AKTS
+Harf
+BM302
+Bilgisayar Ağları II
+4.0
+6.0
+DD
+BM304
+Mikroişlemciler
+4.0
+6.0
+CC
+BM306
+Sistem Programlama
+2.0
+5.0
+FF
+BM308
+Web Programlama
+4.0
+6.0
+BA
+BM310
+Yazılım Mühendisliği
+3.0
+4.0
+CC
+MS309
+Mühendislik Etiği
+2.0
+3.0
+BB
+Toplam Kredi
+Toplam AKTS
+Toplam Ağırlıklı
+Ortalama
+Dönem Sonu
+19.0
+30.0
+67.75
+2.26
+Genel
+133.0
+190.0
+465.25
+2.47
+7. Yarıyıl
+Ders Kodu
+Ders Adı
+Kredi
+AKTS
+Harf
+BM401
+Bilgisayar Mühendisliği  Proje Tasarımı
+2.0
+3.0
+FF
+BM401
+Bilgisayar Mühendisliği  Proj
+e Tasarımı
+2.0
+3.0
+FF
+BM429
+Optimizasyon
+3.0
+5.0
+DVZ
+BM451
+Kontrol Sistemlerine Giriş
+3.0
+5.0
+DD
+BM469
+Makine Öğrenmesine Giriş
+3.0
+5.0
+BB
+BM471
+Gömülü Sistem Uygulamaları
+3.0
+5.0
+CC
+BM477
+Graf Teorisi
+3.0
+5.0
+FF
+BM478
+Python İle
+Veri Bilimine Giriş
+3.0
+5.0
+DC
+BM499
+Yaz Dönemi Stajı II
+0.0
+2.0
+YZ
+BM499
+Yaz Dönemi Stajı II
+0.0
+2.0
+YT
+Toplam Kredi
+Toplam AKTS
+Toplam Ağırlıklı
+Ortalama
+Dönem Sonu
+22.0
+40.0
+50.00
+1.39
+Genel
+155.0
+230.0
+515.25
+2.30
+8. Yarıyıl
+Ders Kodu
+Ders Adı
+Kredi
+AKTS
+Harf
+BM442
+Görsel Programlama
+3.0
+5.0
+DVZ
+BM443
+Mobil Programlama
+3.0
+5.0
+FF
+BM478
+Python İle Veri Bilimine Giriş
+3.0
+5.0
+FD
+BM496
+Bilgi Mühendisliği ve Büyük Veriye Giriş
+3.0
+5.0
+FF
+BM498
+Mezuniyet Tezi
+2.0
+5.0
+FF
+Toplam Kredi
+Toplam AKTS
+Toplam Ağırlıklı
+Ortalama
+Dönem Sonu
+14.0
+25.0
+7.50
+0.30
+Genel
+169.0
+255.0
+522.75
+2.10
+Tarih
+26.03.2025 21:47
+St
+aj Durumu :
+Staj bilgisi bulunamadı.
+Akademik Durum :
+İlişik kesme sebebi bulunamadı.
+Hazırlık Durumu :
+Hazırlık Okumamış
+Not :
+(*)
+ile işaretlenen dersler Erasmus Programı kapsamında alınmıştır.
+(**)
+ile işaretlenen dersler Farabi Programı kapsamında alınmıştır.

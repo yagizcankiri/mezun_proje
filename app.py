@@ -119,29 +119,13 @@ def detectBologna(startDate):
     else:
         return f"{date_obj.year - 1} - {date_obj.year}"
 
-def fetchCurriculum(years_str):
-    cookies = {}
+def fetchCurriculumFromHTML(file_path):
+    with open(file_path, 'r', encoding='utf-8') as f:
+        html = f.read()
+    return html
 
-    response = requests.get("https://ebs.duzce.edu.tr/tr-TR/Bolum/OgretimProgrami/14?bot=14")
-    match = re.search(r'cookiesession1=([A-F0-9]+)', response.headers.get("Set-Cookie"))
-    if match:
-        cookies["cookiesession1"] = match.group(1)
 
-    years = {}
-    for option in BeautifulSoup(response.text, "html.parser").select("select#BolognaYil option"):
-        years[option.text.strip()] = option["value"]
-
-    response = requests.post("https://ebs.duzce.edu.tr/tr-TR/Home/BolognaYilGuncelle", json = {
-        "yilNo": years[years_str],
-        "returnURL": "/tr-TR/Bolum/OgretimProgrami/14?bot=14"
-    }, cookies = cookies, allow_redirects = False)
-    match = re.search(r'ASP\.NET_SessionId=([^;]+)', response.headers.get("Set-Cookie"))
-    if match:
-        cookies["ASP.NET_SessionId"] = match.group(1)
-
-    response = requests.get("https://ebs.duzce.edu.tr/tr-TR/Bolum/OgretimProgrami/14?bot=14", cookies = cookies)
-    return response.text
-
+    
 def parse_course_tables(html):
     soup = BeautifulSoup(html, "html.parser")
     results = defaultdict(list)
@@ -205,7 +189,8 @@ def kalanHesapla(transcript_file):
     student = extract_header_text(transcript_file)
     bologna = detectBologna(student["start_date"])
 
-    curriculum, semesterMap = parse_course_tables(fetchCurriculum(bologna))
+    curriculum, semesterMap = parse_course_tables(fetchCurriculumFromHTML("uploads/bologna.html"))
+
 
     remaining = []
     for semester in curriculum:
